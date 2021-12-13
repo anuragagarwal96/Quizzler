@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Quizzler X</string>
+
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/10</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">Saturn  Has seven Rings.</string>
+    <string name="question_2">Pluto is a dwarf planet.</string>
+    <string name="question_3">Space is continuously expanding.</string>
+    <string name="question_4">Mars Is Known as the blue planet or sister of earth.</string>
+    <string name="question_5">Asteroid belt is found between earth and Jupiter</string>
+    <string name="question_6">Comets Are made of snow, ice and dust</string>
+    <string name="question_7">Phobos and debits are moons of Venus</string>
+    <string name="question_8">SUN is made up from hydrogen and carbon dioxide gas.</string>
+    <string name="question_9">Uranus moon names are oberon and Titania</string>
+    <string name="question_10">Buzz Aldrin\'s mother\'s maiden name was \"Moon\".</string>
+
+
+
+
+
+
+
+
+</resources>
