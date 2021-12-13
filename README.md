@@ -12,10 +12,10 @@ This project was built keeping communication in mind. It is a simple android mes
 
 <p align="center">
 
-<img width="260" height="480" src="./.extra/Flash_Screen.png"> &nbsp; &nbsp;
-<img width="260" height="480" src="./.extra/Main_Screen.png"><br>
-<img width="260" height="480" src="./.extra/QuesScreen_1.png"> &nbsp; &nbsp;
-<img width="260" height="480" src="./.extra/QuesScreen_2.png"><br>
+<img width="260" height="480" style="border:5px solid black" src="./.extra/Flash_Screen.png"> &nbsp; &nbsp;
+<img width="260" height="480" style="border:5px solid black" src="./.extra/Main_Screen.png"><br>
+<img width="260" height="480" style="border:5px solid black" src="./.extra/QuesScreen_1.png"> &nbsp; &nbsp;
+<img width="260" height="480" style="border:5px solid black" src="./.extra/QuesScreen_2.png"><br>
 
 [![Developers Tag]( https://img.shields.io/badge/Developer-anuragagarwal96-black.svg )]( https://github.com/anuragagarwal97 )<br>
 
