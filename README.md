@@ -16,6 +16,4 @@ This project was build as a part of Android App Development course provided by t
 <img width="260" height="480" src="./.extra/QuesScreen_1.png"> &nbsp; &nbsp;
 <img width="260" height="480" src="./.extra/QuesScreen_2.png"><br>
 
-[![Developers Tag](https://img.shields.io/badge/Developer-anuragagarwal96-black.svg)]( https://github.com/anuragagarwal97 )<br>
-
-
+[![Developers Tag](https://img.shields.io/badge/Developer-anuragagarwal96-black.svg)]( https://github.com/anuragagarwal96)
